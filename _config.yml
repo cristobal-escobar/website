@@ -1,9 +1,9 @@
 # Site settings
-title: My Blog
+title: Cristobal Escobar
 author:
-  name: Liam O'Dwyer
-  email: your-email@domain.com
-description: "Liam's Blog"
+  name: Cristobal Escobar
+  email: cristobal Escobar
+description: Cristobal's website
 
 # Build settings
 remote_theme: jekyll/minima
