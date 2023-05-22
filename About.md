@@ -7,6 +7,6 @@ title: About me
 
 {% include resume.md %}
 
-<img src="https://github.com/cristobal-escobar/website/blob/main/images/IMG_0051.png" alt="Alt text for image" height="300" width="250">
+<img src="https://github.com/cristobal-escobar/website/blob/main/images/IMG_0051.png" alt="Alt text for image" height="300" width="225">
 
 Include bio
