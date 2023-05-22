@@ -1,7 +1,7 @@
 ---
 layout: page 
-title: Contact
+title: ## Contact
 ---
 
-## Phone:
+### Phone:
  * 253-455-8649
