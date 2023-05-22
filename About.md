@@ -4,9 +4,7 @@ title: About me
 ---
 
 ## Biography:
-
-<img src="https://github.com/cristobal-escobar/website/blob/main/PDFs/2023-05-21%20(3).png" alt="Alt text for image" height="500" width="600">
+![My Biography](https://github.com/cristobal-escobar/website/blob/main/Docxs/ShortBio.docx)
 
 ## Resume:
-
-<img src="https://github.com/cristobal-escobar/website/blob/main/PDFs/2023-05-21%20(2).png" alt="Alt text for image" height="900" width="600">
+![My Resume](https://github.com/cristobal-escobar/website/blob/main/Docxs/MyResume.docx)
