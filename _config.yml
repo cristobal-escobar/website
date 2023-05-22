@@ -2,11 +2,11 @@
 title: Cristobal Escobar
 author:
   name: Cristobal Escobar
-  email: cristobal Escobar
+  email: cristobalescobar@wsu.edu
 description: Cristobal's website
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/slate
 
 ---
 # a comment 
@@ -15,7 +15,7 @@ example_key: example value
 
 ---
 layout: home 
-title: home page
+title: Home Page
 ---
 
 ## Welcome to my new blog!
