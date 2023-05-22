@@ -10,8 +10,6 @@ remote_theme: jekyll/minima
 
 ---
 # a comment 
-exclude: 
-  resume.md
 
 header_pages:
   - index.md
@@ -20,5 +18,5 @@ header_pages:
   - contact.md
 ---
 
-minima:
-  skin: dark (or solarized-dark)
+# minima:
+ # skin: dark (or solarized-dark)
