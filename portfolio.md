@@ -3,6 +3,6 @@ layout: page
 title: Portfolio
 ---
 
-## Welcome!
+## Projects:
+  Posting soon...
 
-This is a site 
