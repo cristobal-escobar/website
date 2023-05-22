@@ -5,7 +5,7 @@ title: About me
 
 ## Biography:
 
-<img src="https://github.com/cristobal-escobar/website/blob/main/PDFs/2023-05-21%20(3).png" alt="Alt text for image" height="600" width="600">
+<img src="https://github.com/cristobal-escobar/website/blob/main/PDFs/2023-05-21%20(3).png" alt="Alt text for image" height="500" width="600">
 
 ## Resume:
 
