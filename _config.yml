@@ -10,14 +10,12 @@ remote_theme: jekyll/minima
 
 ---
 # a comment 
-example_key: example value
----
-
 header_pages:
   - index.md
   - portfolio.md
   - about.md
   - contact.md
+---
 
 minima:
   skin: dark (or solarized-dark)
