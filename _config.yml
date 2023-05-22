@@ -7,7 +7,7 @@ phone: 253-455-8649
 description: Washington State University
 
 # Build settings
-theme: jekyll-theme-slate
+remote_theme: jekyll/minima
 
 
 header_pages:
@@ -16,5 +16,5 @@ header_pages:
   - about.md
   - contact.md
 
-slate:
+minima:
   skin: dark (or solarized-dark)
