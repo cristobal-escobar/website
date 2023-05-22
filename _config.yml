@@ -8,11 +8,6 @@ description: Mydescription
 # Build settings
 remote_theme: jekyll/minima
 
-nav_links:
-  title: Home url: /
-  title: About url: /
-  title: Contact url: /
-
 header_pages:
   - about.md
   - portfolio.md
