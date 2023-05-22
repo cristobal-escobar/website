@@ -7,3 +7,14 @@ description: Mydescription
 
 # Build settings
 remote_theme: jekyll/minima
+
+---
+# a comment 
+example_key: example value
+---
+
+header_pages:
+  - about.md
+  - portfolio.md
+minima:
+  skin: dark (or solarized-dark)
