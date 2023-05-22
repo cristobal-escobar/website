@@ -15,8 +15,10 @@ example_key: example value
 ---
 
 header_pages:
-  - about.md
+  - index.md
   - portfolio.md
+  - about.md
   - contact.md
+  
 minima:
   skin: dark (or solarized-dark)
