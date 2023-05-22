@@ -4,7 +4,7 @@ title: About me
 ---
 
 ## Biography:
-![My Biography](https://github.com/cristobal-escobar/website/blob/main/Docxs/ShortBio.docx)
+[ShortBio.docx](https://github.com/cristobal-escobar/website/files/11527513/ShortBio.docx)
 
 ## Resume:
-![My Resume](https://github.com/cristobal-escobar/website/blob/main/Docxs/MyResume.docx)
+[MyResume.docx](https://github.com/cristobal-escobar/website/files/11527510/MyResume.docx)
