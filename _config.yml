@@ -10,6 +10,9 @@ remote_theme: jekyll/minima
 
 ---
 # a comment 
+exclude: 
+  resume.md
+
 header_pages:
   - index.md
   - portfolio.md
