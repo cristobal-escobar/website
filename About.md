@@ -4,9 +4,9 @@ title: About me
 ---
 
 ## Biography:
-
-[Link Text](https://github.com/cristobal-escobar/website/blob/main/PDFs/ShortBio.pdf)
+![alt text is white cat](https://github.com/cristobal-escobar/website/blob/main/PDFs/2023-05-21.png)
 
 ## Resume:
+![alt text is white cat](https://github.com/cristobal-escobar/website/blob/main/PDFs/2023-05-21%20(2).png)
 
 Include bio
