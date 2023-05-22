@@ -4,6 +4,8 @@ title: About me
 ---
 
 ## Welcome!
-{% include resume.md %}
+#{% include resume.md %}
 
-Include bio and picture
+![my image](https://github.com/cristobal-escobar/website/blob/main/images/IMG_0051.heic)
+
+Include bio
