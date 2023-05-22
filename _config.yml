@@ -3,7 +3,7 @@ title: Cristobal Escobar
 author:
   name: Cristobal Escobar
   email: cristobalescobar@wsu.edu
-  phone: 253-455-8649
+phone: 253-455-8649
 description: Washington State University
 
 # Build settings
@@ -15,3 +15,6 @@ header_pages:
   - portfolio.md
   - about.md
   - contact.md
+
+slate:
+  skin: dark (or solarized-dark)
