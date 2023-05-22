@@ -1,8 +1,8 @@
 ---
 layout: page 
-title: Portfolio
+title: ## Portfolio
 ---
 
-# Projects:
+### Projects:
     Posting soon...
 
