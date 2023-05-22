@@ -2,6 +2,7 @@
 layout: home 
 title: Home
 ---
+## Welcome!
 
-Welcome to my personal website!
+This is my personal website
 
