@@ -3,12 +3,10 @@ title: Cristobal Escobar
 author:
   name: Cristobal Escobar
   email: cristobalescobar@wsu.edu
-phone: 253-455-8649
 description: Washington State University
 
 # Build settings
 remote_theme: jekyll/minima
-
 
 header_pages:
   - index.md
