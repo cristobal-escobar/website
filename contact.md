@@ -3,6 +3,5 @@ layout: page
 title: Contact
 ---
 
-## Welcome2!
-
-This is a site2 
+## Phone:
+ * 253-455-8649
