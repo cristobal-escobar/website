@@ -3,6 +3,5 @@ layout: page
 title: Portfolio
 ---
 
-### Projects:
-    Posting soon...
-
+### Unit 2 Reflection Post:
+[Unit 2 Reflection.docx](https://github.com/cristobal-escobar/website/files/11587003/Unit.2.Reflection.docx)
