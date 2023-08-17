@@ -6,7 +6,7 @@ author:
 description: Washington State University
 
 # Build settings
-remote_theme: mmistakes/jekyll-theme-basically-basic@1.4.5 #jekyll/minima
+remote_theme: jekyll/minima # mmistakes/jekyll-theme-basically-basic@1.4.5
 
 ---
 # a comment 
@@ -17,6 +17,6 @@ header_pages:
   - about.md
   - contact.md
 ---
-skin : night
-# minima:
- # skin: night #dark (or solarized-dark)
+#skin : night
+minima:
+ skin: dark #(or solarized-dark)
